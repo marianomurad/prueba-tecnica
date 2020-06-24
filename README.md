@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##TASKS 
+Create a Login page with two inputs, one for email one for password
+Together with a button that submits and calls `/users` through an api with the contents of both inputs.
+
+
+## To start the project run the following
 
 In the project directory, you can run:
 
